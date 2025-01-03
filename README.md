@@ -1,7 +1,7 @@
 # hello-world
 Primer repo
 
-Galarza Chumbe, 000267963
+Galarza Chumbe, fgalarzac
 
 ## Subtítulo
 
