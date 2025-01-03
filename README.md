@@ -10,4 +10,6 @@ Galarza Chumbe, 000267963
 
 # Segunda sección 
 
+**más texto en negrita**
+
 ## Otro subtítulo
